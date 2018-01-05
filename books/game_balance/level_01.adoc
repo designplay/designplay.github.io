@@ -2,7 +2,7 @@
 :toc: right
 :toclevels: 2
 :imagesdir: ./images
-:stylesheet: ./css/foundation.css
+:stylesheet: https://designplay.github.io/css/foundation.css
 :linkcss:
 
 NOTE: 원문: https://gamebalanceconcepts.wordpress.com/2010/07/07/level-1-intro-to-game-balance/[Level 1: Intro to Game Balance]

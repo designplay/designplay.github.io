@@ -1,0 +1,17 @@
+= 아트 오브 브레이드
+데이비드 헬먼
+:revdate: 2008년 3월~9월 (번역: 2009년 12월)
+:keywords: 브레이드, 아트 디자인, 플랫포머
+:description: 아티스트 데이비드 헬먼이 브레이드의 시각적 세계를 창조한 과정을 설명한다.
+:imagesdir: ./images
+:stylesheet: https://designplay.github.io/css/foundation.css
+:linkcss:
+:toc:
+
+The Art of Braid
+
+include::part_01.adoc[]
+
+include::part_02.adoc[]
+
+include::part_03.adoc[]
